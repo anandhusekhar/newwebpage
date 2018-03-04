@@ -1,0 +1,54 @@
+#wrapper{
+    width: 1345px;
+    height: 1600px;
+    
+    background-color: #828282;
+}
+
+#nav{
+    height: 100px;
+    background-color: #4286f4;
+    
+}
+#para{
+    height: 70px;
+    text-align: center;
+
+}
+#form{
+   
+    padding-top: 20px;
+    
+    
+    
+}
+#first_name{
+    height: 30px;
+    width: 250px;
+    
+    
+}
+#last_name{
+    height: 30px;
+    width: 250px;
+    
+    
+}
+#email{
+    height: 30px;
+    width: 250px;
+    
+    
+}
+#password{
+    height: 30px;
+    width: 250px;
+    
+    
+}
+#c_password{
+    height: 30px;
+    width: 250px;
+    
+    
+}
